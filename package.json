@@ -1,0 +1,10 @@
+{
+  "name": "cleaning-duty",
+  "version": "1.0.0",
+  "repository": "git@github.com:mi2428/cleaning-duty.git",
+  "author": "mi2428 <mi2428782020@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.2.0"
+  }
+}
