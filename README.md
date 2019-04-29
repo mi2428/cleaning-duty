@@ -1,1 +1,12 @@
-# solidity-cleaning-duty
+# 掃除当番の紛争処理するやつ
+「先週やった」「先々週やった」「やってない」の不毛な水掛け論を †ブロックチェーン技術† で解決します．   
+※ これはジョークソフトです
+
+- 掃除当番をERC20トークンDUTYを所有することで表現
+- 掃除したら他の人にDUTYを転送する
+- ただし，すでにDUTYを所有している人には転送できない
+
+研究室内のプライベートチェーンでデプロイします．  
+実装ガバいのでいろいろ抜け道探せそう？
+
+![MetaMaskスクリーンショット](https://raw.githubusercontent.com/mi2428/cleaning-duty/master/screenshot.png)
